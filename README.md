@@ -2,7 +2,7 @@
 ## Areas of interest:
 
 🥽 VR<br/>
-⚙️ Systems Languages (C/C++, Rust)<br/>
+⚙️ Systems Languages (C, C++, Rust)<br/>
 🛠️ CLI Tools<br/>
 🧰 Services<br/>
 📥 Containerization<br/>
