@@ -1,5 +1,5 @@
 # Hey! my name is Luxzi 👋
-## Areas of interest:
+### Areas of interest:
 
 🥽 VR<br/>
 ⚙️ Systems Languages (C, C++, Rust)<br/>
@@ -9,11 +9,6 @@
 📦 Package Managers<br/>
 🐧 Linux<br/>
 🔺 Computer Graphics
-
-## Previous projects:
-
-### [knewsnotifd](https://github.com/Luxzi/knewsnotifd)
-Kernel news RSS notifier daemon for Discord webhooks
 
 ## GitHub Statistics:
 
