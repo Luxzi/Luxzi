@@ -5,7 +5,7 @@ I've been coding since 2016 or around 9 years. I love everything and anything lo
 **Feel free to mention me in issues or pull requests**, and I may contribute your project.
 
 ## Contact
-Please email me at [luxzi@pm.me](mailto:luxzi@pm.me) or for urgent matters message on discord [@luxzi](https://discord.com/users/297490782397399040)
+Please email me at [luxzi@pm.me](mailto:luxzi@pm.me) or for urgent matters message me on discord [@luxzi](https://discord.com/users/297490782397399040)
 
 ### Editors
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
